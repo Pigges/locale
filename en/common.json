@@ -1,0 +1,13 @@
+{
+  "changeLanguage": "Change language",
+  "en": "🇬🇧 English",
+  "ru": "🇷🇺 Russian",
+  "signOut": "Sign out",
+  "signIn": "Sign in",
+  "themes": {
+    "theme": "Theme",
+    "dark": "dark",
+    "light": "light",
+    "system": "system"
+  }
+}

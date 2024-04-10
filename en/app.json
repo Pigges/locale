@@ -1,0 +1,26 @@
+{
+    "greeting": {
+        "text": "{{timeOfDay}}, <green>{{name}}</green>. What are your plans?",
+    "morning": "Good morning",
+    "afternoon": "Good afternoon",
+    "evening": "Good evening",
+    "night": "Good night"
+    },
+    "upcomingTasks": "Upcoming tasks",
+    "currentTask": "Current task",
+    "completed": "completed",
+    "pending": "pending",
+    "noTasksLeft": "No tasks left. Get some rest",
+    "quotes": [
+        {
+            "text": "Don’t let yesterday take up too much of today.",
+            "author": "Will Rogers"
+        }
+    ],
+    "deleteDialog": {
+        "title": "Do you want to delete the task?",
+        "description": "This action cannot be undone. This will permanently delete the task.",
+        "continue": "Continue",
+        "cancel": "Cancel"
+    }
+}

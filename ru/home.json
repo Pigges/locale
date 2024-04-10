@@ -1,0 +1,56 @@
+{
+  "tagline": "TODO приложение, которое <highlight>работает</highlight> для людей с СДВГ",
+  "taglineParagraph": "Выполнять задачи для нас, людей с СДВГ - это трудно. Вот почему мы сделали Mentalitet - TODO приложение, которое фокусируется на том, чтобы помочь вам выполнять задачи. Совершенно бесплатно",
+  "ctaTitle": "Чего вы ждётё?",
+  "ctaButtonText": "Начните завершать задачи",
+  "learnMoreButtonText": "Узнать больше",
+  "testimonialsHeader": "Что говорят люди с СДВГ",
+  "differentTitle": "Что мы делаем по другому?",
+  "differentText": "Mentalitet работает иначе, чем обычные TODO приложения. Мы тщательно продумали поведение приложения, чтобы оно подходило большинству из нас, людей с СДВГ. То, что мы делаем, сначала может показаться странным, но когда вы попробуете, то поймете, что это на самом деле хорошо.",
+  "points": [
+    {
+      "title": "Одна задача за раз.",
+      "text": "Разве вы не ужасаетесь, глядя на все задачи на день в обычных TODO приложениях? Поэтому мы показываем вам только текущую задачу, чтобы вы могли сосредоточиться на ней."
+    },
+    {
+      "title": "Разбивайте задачи",
+      "text": "Обычно разбивать задачи на части не очень хорошо, так как в обычных TODO приложениях их становится еще больше. Но, помните, мы показываем только одну задачу - так что это работает. Каждая добавленная задача должна занимать не более 30 минут."
+    },
+    {
+      "title": "'Когда' имеет значение",
+      "text": "Выбирайте точную дату задачи, но не время. Задачи упорядочиваются по времени создания, но их можно переорганизовать. Точные даты для задач не работают, и мы используем их только для интеграции с календарем."
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "I've been daily driving Mentalitet for quite a long time. I'm the creator, so I might be biased, though I can't say that using it had changed my life. What I can say is that using it had improved my TODO tracking and I'm able to complete tasks better.",
+      "name": "Nikita",
+      "role": "Founder of Mentalitet",
+      "imgSrc": "https://cdn.discordapp.com/avatars/704560097610825828/eeb6e5af51bafd1e0741e1289e490ea6.webp?size=4096"
+    },
+    {
+      "quote": "Eiusmod dolor aute ut nulla pariatur officia consequat aute amet exercitation. Culpa consectetur dolor pariatur commodo aliqua amet tempor nisi enim deserunt elit cillum.",
+      "name": "Ayman",
+      "role": "Co-founder of Mentalitet",
+      "imgSrc": "https://cdn.discordapp.com/avatars/338771064353980436/ce46ccbc9ee8c08dcb3b21e2c2f0f4b1.webp?size=4096"
+    },
+    {
+      "quote": "Normal ahh task list app imo",
+      "name": "Slorien",
+      "role": "Mentalitet user",
+      "imgSrc": "https://cdn.discordapp.com/avatars/470904884946796544/7dabc34c6db6786475112f3bfae4385b.webp?size=4096"
+    },
+    {
+      "quote": "okay nah, get some other ppl. i dont wanna give a false testimony, imma actually use this first",
+      "name": "aemogie.",
+      "role": "Mentalitet user",
+      "imgSrc": "https://cdn.discordapp.com/avatars/687791596925747243/bb0d401ab8089dea99216c15c5becc4f.webp?size=4096"
+    },
+    {
+      "quote": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur voluptate pariatur dolore laboris. Eiusmod dolor aute ut nulla pariatur officia consequat aute amet exercitation.",
+      "name": "Pigges",
+      "role": "Mentalitet user",
+      "imgSrc": "https://cdn.discordapp.com/avatars/295886122117234688/bff3ed7d6365398d562402bc8bc120fe.webp?size=4096"
+    }
+  ]
+}
