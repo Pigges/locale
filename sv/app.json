@@ -1,0 +1,37 @@
+{
+  "greeting": {
+    "text": "{{timeOfDay}}, <green>{{name}}</green>. Vad har du för planer?",
+    "morning": "God morgon",
+    "afternoon": "God eftermiddag",
+    "evening": "God kväll",
+    "night": "God natt"
+  },
+  "today": "Idag",
+  "upcomingTasks": "Kommande uppgifter",
+  "currentTask": "Nuvarande uppgift",
+  "completed": "avklarade",
+  "pending": "pågående",
+  "noTasksLeft": "Inga uppgifter kvar. Vila upp dig",
+  "quotes": [
+    {
+      "text": "Don’t let yesterday take up too much of today.",
+      "author": "Will Rogers"
+    }
+  ],
+  "createTask": {
+    "title": "Ny uppgift",
+    "taskTitle": "Uppgiftstitel",
+    "taskDescription": "Uppgiftsbeskrivning",
+    "dueDate": "Uppgiftens slutdatum",
+    "tags": "Uppgiftstaggar",
+    "selectTags": "Välj taggar",
+    "optional": "valfri",
+    "addTask": "Lägg till uppgift"
+  },
+  "deleteDialog": {
+    "title": "Vill du ta bort den här uppgiften?",
+    "description": "Den här återgärden kan inte ångras. Det här kommer att permanent radera uppgiften.",
+    "continue": "Fortsätt",
+    "cancel": "Avbryt"
+  }
+}

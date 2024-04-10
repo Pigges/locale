@@ -1,0 +1,13 @@
+{
+  "changeLanguage": "Välj språk",
+  "en": "🇬🇧 Engelska",
+  "ru": "🇷🇺 Ryska",
+  "signOut": "Logga ut",
+  "signIn": "Logga in",
+  "themes": {
+    "theme": "Tema",
+    "dark": "mörkt",
+    "light": "ljust",
+    "system": "system"
+  }
+}
