@@ -1,0 +1,50 @@
+{
+  "tagline": "En TODO app som <highlight>bara funkar</highlight> för personer med ADHD",
+  "taglineParagraph": "Att göra uppfifter är svårt för oss med ADHD. Därför skapade vi Mentalitet - En TODO app som fokuserar på att hjälpa dig att göra saker. Helt gratis",
+  "ctaTitle": "Vad väntar du på?",
+  "ctaButtonText": "Gör klart uppgifter",
+  "learnMoreButtonText": "Läs mer",
+  "testimonialsHeader": "Vad andra med ADHD säger",
+  "differentTitle": "Vad är annorlunda?",
+  "differentText": "Mentalitet fungerar annnorlunda jämfört med andra TODO appar. Vi har noggrannt utvecklat beteendet av appen för att bäst passa oss med ADHD. Vad vi gör kan verka konstigt till en början, men när du väl testar appen kommer du att inse att den faktiskt är bra.",
+  "points": [
+    {
+      "title": "En uppgift i taget.",
+      "text": "Blir du överväldigad av att se på alla uppgifter för dagen i en vanligt TODO app? Det är varför vi bara visar dig den nuvarande uppgiften för att fokusera på."
+    },
+    {
+      "title": "Dela in uppgifter i delar",
+      "text": "Det är vanligtvis inte en bra idé att dela upp uppgifter eftersom att du ser ännu fler av dem bland dina dagliga uppgifter. Men kom ihåg att vi bara visar dig en uppgift - så det fungerar. Varje uppfift som du lägger till borde ta högst 30 minuter."
+    },
+    {
+      "title": "'När' spelar roll",
+      "text": "Ange det exakta datumet för din uppgift, men inte tiden. Uppgifter är sorterade efter när de skapades, men du kan omorganisera dem. Exakta datum för uppgifter fungerar inte, så vi använder dem enbart för kalenderintegrationer."
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "I've been daily driving Mentalitet for quite a long time. I'm the creator, so I might be biased, though I can't say that using it had changed my life. What I can say is that using it had improved my TODO tracking and I'm able to complete tasks better.",
+      "name": "Nikita",
+      "role": "Founder of Mentalitet",
+      "imgSrc": "https://cdn.discordapp.com/avatars/704560097610825828/eeb6e5af51bafd1e0741e1289e490ea6.webp?size=4096"
+    },
+    {
+      "quote": "Eiusmod dolor aute ut nulla pariatur officia consequat aute amet exercitation. Culpa consectetur dolor pariatur commodo aliqua amet tempor nisi enim deserunt elit cillum.",
+      "name": "Ayman",
+      "role": "Co-founder of Mentalitet",
+      "imgSrc": "https://cdn.discordapp.com/avatars/338771064353980436/ce46ccbc9ee8c08dcb3b21e2c2f0f4b1.webp?size=4096"
+    },
+    {
+      "quote": "Normal ahh task list app imo",
+      "name": "Slorien",
+      "role": "Mentalitet user",
+      "imgSrc": "https://cdn.discordapp.com/avatars/470904884946796544/7dabc34c6db6786475112f3bfae4385b.webp?size=4096"
+    },
+    {
+      "quote": "Good app, can recommend. Used it for a long time, very convenient. Can manage tasks, big functional. Had a very good experience using it.",
+      "name": "Andrey",
+      "role": "Mentalitet user",
+      "imgSrc": ""
+    }
+  ]
+}
