@@ -17,6 +17,16 @@
             "author": "Will Rogers"
         }
     ],
+    "createTask": {
+        "title": "New task",
+        "taskTitle": "Task title",
+        "taskDescription": "Task description",
+        "dueDate": "Task due date",
+        "tags": "Task tags",
+        "selectTags": "Select tags",
+        "optional": "optional",
+        "addTask": "Add task"
+    },
     "deleteDialog": {
         "title": "Do you want to delete the task?",
         "description": "This action cannot be undone. This will permanently delete the task.",
