@@ -23,34 +23,28 @@
   ],
   "testimonials": [
     {
-      "quote": "I've been daily driving Mentalitet for quite a long time. I'm the creator, so I might be biased, though I can't say that using it had changed my life. What I can say is that using it had improved my TODO tracking and I'm able to complete tasks better.",
-      "name": "Nikita",
-      "role": "Founder of Mentalitet",
+      "quote": "Я использовал Mentalitet на постоянной основе достаточно долгое время. Я его создатель, так что я могу быть предвзятым, но я не могу сказать, что его использование изменило мою жизнь. Что Я могу сказать, так это то, что его использование позволило мне выполнять задачи лучше.",
+      "name": "Никита",
+      "role": "Создатель Mentalitet",
       "imgSrc": "https://cdn.discordapp.com/avatars/704560097610825828/eeb6e5af51bafd1e0741e1289e490ea6.webp?size=4096"
     },
     {
       "quote": "Eiusmod dolor aute ut nulla pariatur officia consequat aute amet exercitation. Culpa consectetur dolor pariatur commodo aliqua amet tempor nisi enim deserunt elit cillum.",
-      "name": "Ayman",
-      "role": "Co-founder of Mentalitet",
+      "name": "Айман",
+      "role": "Сооснователь Mentalitet",
       "imgSrc": "https://cdn.discordapp.com/avatars/338771064353980436/ce46ccbc9ee8c08dcb3b21e2c2f0f4b1.webp?size=4096"
     },
     {
-      "quote": "Normal ahh task list app imo",
+      "quote": "Нормальное TODO приложение",
       "name": "Slorien",
-      "role": "Mentalitet user",
+      "role": "Пользователь Mentalitet",
       "imgSrc": "https://cdn.discordapp.com/avatars/470904884946796544/7dabc34c6db6786475112f3bfae4385b.webp?size=4096"
     },
     {
-      "quote": "okay nah, get some other ppl. i dont wanna give a false testimony, imma actually use this first",
-      "name": "aemogie.",
-      "role": "Mentalitet user",
-      "imgSrc": "https://cdn.discordapp.com/avatars/687791596925747243/bb0d401ab8089dea99216c15c5becc4f.webp?size=4096"
-    },
-    {
-      "quote": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Consectetur voluptate pariatur dolore laboris. Eiusmod dolor aute ut nulla pariatur officia consequat aute amet exercitation.",
-      "name": "Pigges",
-      "role": "Mentalitet user",
-      "imgSrc": "https://cdn.discordapp.com/avatars/295886122117234688/bff3ed7d6365398d562402bc8bc120fe.webp?size=4096"
+      "quote": "Хорошее приложение, могу порекомендовать. Использовал его достаточно долгое время, удобно. Могу распределять задачи, большой функционал. Хороший опыт использования.",
+      "name": "Андрей",
+      "role": "Пользователь Mentalitet",
+      "imgSrc": ""
     }
   ]
 }
