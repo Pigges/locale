@@ -9,7 +9,7 @@
   "today": "Idag",
   "upcomingTasks": "Kommande uppgifter",
   "currentTask": "Nuvarande uppgift",
-  "completed": "avklarade",
+  "completed": "slutförda",
   "pending": "pågående",
   "noTasksLeft": "Inga uppgifter kvar. Vila upp dig",
   "quotes": [
@@ -30,7 +30,7 @@
   },
   "deleteDialog": {
     "title": "Vill du ta bort den här uppgiften?",
-    "description": "Den här återgärden kan inte ångras. Det här kommer att permanent radera uppgiften.",
+    "description": "Den här återgärden går inte ångra. Det här kommer att permanent radera uppgiften.",
     "continue": "Fortsätt",
     "cancel": "Avbryt"
   }

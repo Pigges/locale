@@ -1,8 +1,8 @@
 {
-  "tagline": "En TODO app som <highlight>bara funkar</highlight> för personer med ADHD",
+  "tagline": "En TODO app som <highlight>funkar</highlight> för personer med ADHD",
   "taglineParagraph": "Att göra uppfifter är svårt för oss med ADHD. Därför skapade vi Mentalitet - En TODO app som fokuserar på att hjälpa dig att göra saker. Helt gratis",
   "ctaTitle": "Vad väntar du på?",
-  "ctaButtonText": "Gör klart uppgifter",
+  "ctaButtonText": "Få uppgifter gjorda",
   "learnMoreButtonText": "Läs mer",
   "testimonialsHeader": "Vad andra med ADHD säger",
   "differentTitle": "Vad är annorlunda?",
@@ -10,11 +10,11 @@
   "points": [
     {
       "title": "En uppgift i taget.",
-      "text": "Blir du överväldigad av att se på alla uppgifter för dagen i en vanligt TODO app? Det är varför vi bara visar dig den nuvarande uppgiften för att fokusera på."
+      "text": "Blir du överväldigad av att se på alla uppgifter för dagen i en vanligt TODO app? Det är varför vi bara visar dig den nuvarande uppgiften att fokusera på."
     },
     {
       "title": "Dela in uppgifter i delar",
-      "text": "Det är vanligtvis inte en bra idé att dela upp uppgifter eftersom att du ser ännu fler av dem bland dina dagliga uppgifter. Men kom ihåg att vi bara visar dig en uppgift - så det fungerar. Varje uppfift som du lägger till borde ta högst 30 minuter."
+      "text": "Det är vanligtvis ingen bra idé att dela upp uppgifter eftersom att du ser ännu fler av dem bland dina dagliga uppgifter. Men kom ihåg att vi bara visar dig en uppgift - så det fungerar. Varje uppfift som du lägger till borde ta högst 30 minuter."
     },
     {
       "title": "'När' spelar roll",
