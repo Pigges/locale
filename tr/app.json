@@ -1,38 +1,37 @@
 {
-    "greeting": {
-      "text": "{{timeOfDay}}, <green>{{name}}</green>. Planların Neler?",
-      "morning": "Günaydın",
-      "afternoon": "Tünaydın",
-      "evening": "İyi akşamlar",
-      "night": "İyi akşamlar"
-    },
-    "today": "Bugün",
-    "upcomingTasks": "Gelecek görevler",
-    "currentTask": "Şuanki görevler",
-    "completed": "tamamlandı",
-    "pending": "bekleniyor",
-    "noTasksLeft": "Başka görev kalmadı. Biraz Dinlen.",
-    "quotes": [
-      {
-        "text": "Dünün bugünün çoğunu almasına izin vermeyin.",
-        "author": "Will Rogers"
-      }
-    ],
-    "createTask": {
-      "title": "Yeni görev",
-      "taskTitle": "Başlık",
-      "taskDescription": "Açıklama",
-      "dueDate": "Tarih",
-      "tags": "Etiketler",
-      "selectTags": "Etiket seç",
-      "optional": "opsiyoneş",
-      "addTask": "Görev ekle"
-    },
-    "deleteDialog": {
-      "title": "Görevi silmek istediğine emin misin?",
-      "description": "Bu eylem geri alınamaz. Bu, görevi kalıcı olarak silecektir.",
-      "continue": "Devam Et",
-      "cancel": "İptal"
+  "greeting": {
+    "text": "{{timeOfDay}}, <green>{{name}}</green>. Planların Neler?",
+    "morning": "Günaydın",
+    "afternoon": "Tünaydın",
+    "evening": "İyi akşamlar",
+    "night": "İyi akşamlar"
+  },
+  "today": "Bugün",
+  "upcomingTasks": "Gelecek görevler",
+  "currentTask": "Şuanki görevler",
+  "completed": "tamamlandı",
+  "pending": "bekleniyor",
+  "noTasksLeft": "Başka görev kalmadı. Biraz Dinlen.",
+  "quotes": [
+    {
+      "text": "Dünün bugünün çoğunu almasına izin vermeyin.",
+      "author": "Will Rogers"
     }
+  ],
+  "createTask": {
+    "title": "Yeni görev",
+    "taskTitle": "Başlık",
+    "taskDescription": "Açıklama",
+    "dueDate": "Tarih",
+    "tags": "Etiketler",
+    "selectTags": "Etiket seç",
+    "optional": "opsiyoneş",
+    "addTask": "Görev ekle"
+  },
+  "deleteDialog": {
+    "title": "Görevi silmek istediğine emin misin?",
+    "description": "Bu eylem geri alınamaz. Bu, görevi kalıcı olarak silecektir.",
+    "continue": "Devam Et",
+    "cancel": "İptal"
   }
-  
+}
