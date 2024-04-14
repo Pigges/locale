@@ -1,0 +1,16 @@
+{
+  "changeLanguage": "Dili Değiştir",
+  "en": "🇬🇧 English",
+  "ru": "🇷🇺 Russian",
+  "sv": "🇸🇪 Swedish",
+  "ua": "🇺🇦 Ukrainian",
+  "tr": "🇹🇷 Türkçe",
+  "signOut": "Çıkış Yap",
+  "signIn": "Giriş Yap",
+  "themes": {
+    "theme": "Tema",
+    "dark": "koyu",
+    "light": "açık",
+    "system": "varsayılan"
+  }
+}
