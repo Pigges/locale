@@ -1,0 +1,50 @@
+{
+  "tagline": "Dikkat Eksikliği ve Hiperaktivite Bozukluğu (DEHB) olanlar için işleyen bir GÖREV uygulaması",
+  "taglineParagraph": "Görevleri yapmak biz DEHB'liler için zordur. İşte bu yüzden Mentalitet'i yaptık - size işleri yapmanızda yardımcı olan bir görev uygulaması. Tamamen ücretsiz",
+  "ctaTitle": "Ne bekliyorsunuz?",
+  "ctaButtonText": "Görevleri tamamlayın",
+  "learnMoreButtonText": "Daha fazla bilgi edin",
+  "testimonialsHeader": "Diğer DEHB'li kişiler ne diyor",
+  "differentTitle": "Nasıl Farklı?",
+  "differentText": "Mentalitet, tipik GÖREV uygulamalarına göre farklı çalışır. Uygulamanın davranışını çoğumuz DEHB'li olanlar için uygun olacak şekilde özenle tasarladık. İlk başta yaptığımız şey size tuhaf gelebilir, ancak denediğinizde işe yaradığını fark edersiniz.",
+  "points": [
+    {
+      "title": "Bir kerede bir görev.",
+      "text": "Geleneksel GÖREV uygulamalarındaki tüm günlük görevlere bakarken bunalmıyor musunuz? İşte bu yüzden size yalnızca mevcut görevi gösteriyoruz, böylece üzerine odaklanabilirsiniz."
+    },
+    {
+      "title": "Görevleri parçalara ayırın",
+      "text": "Görevleri parçalamak genellikle iyi değildir, çünkü günlük görevlerinizde daha fazlasını görürsünüz. Ancak, unutmayın, yalnızca bir görev gösteriyoruz - bu yüzden işe yarıyor. Eklediğiniz her görev en fazla 30 dakika sürmelidir."
+    },
+    {
+      "title": "'Ne zaman' önemlidir",
+      "text": "Göreviniz için tam tarih seçin, ancak saat seçmeyin. Görevler, oluşturma zamanına göre düzenlenir, ancak bunları yeniden düzenleyebilirsiniz. Görevler için tam tarihler işe yaramaz ve bunları yalnızca takvim entegrasyonları için kullanırız."
+    }
+  ],
+  "testimonials": [
+    {
+      "quote": "I've been daily driving Mentalitet for quite a long time. I'm the creator, so I might be biased, though I can't say that using it had changed my life. What I can say is that using it had improved my TODO tracking and I'm able to complete tasks better.",
+      "name": "Nikita",
+      "role": "Founder of Mentalitet",
+      "imgSrc": "https://cdn.discordapp.com/avatars/704560097610825828/eeb6e5af51bafd1e0741e1289e490ea6.webp?size=4096"
+    },
+    {
+      "quote": "Eiusmod dolor aute ut nulla pariatur officia consequat aute amet exercitation. Culpa consectetur dolor pariatur commodo aliqua amet tempor nisi enim deserunt elit cillum.",
+      "name": "Ayman",
+      "role": "Co-founder of Mentalitet",
+      "imgSrc": "https://cdn.discordapp.com/avatars/338771064353980436/ce46ccbc9ee8c08dcb3b21e2c2f0f4b1.webp?size=4096"
+    },
+    {
+      "quote": "Normal ahh task list app imo",
+      "name": "Slorien",
+      "role": "Mentalitet user",
+      "imgSrc": "https://cdn.discordapp.com/avatars/470904884946796544/7dabc34c6db6786475112f3bfae4385b.webp?size=4096"
+    },
+    {
+      "quote": "Good app, can recommend. Used it for a long time, very convenient. Can manage tasks, big functional. Had a very good experience using it.",
+      "name": "Andrey",
+      "role": "Mentalitet user",
+      "imgSrc": ""
+    }
+  ]
+}
